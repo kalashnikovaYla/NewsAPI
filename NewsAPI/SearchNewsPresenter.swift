@@ -24,6 +24,7 @@ final class SearchNewsPresenter: SearchNewsPresenterDelegate {
     
     weak var view: SearchNewsViewDelegate?
     let networkManager: NetworkManager!
+    
     var atricles: [Articles]?
     
     //MARK: - Init
