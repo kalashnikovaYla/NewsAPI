@@ -23,6 +23,7 @@
 		1836AE902986ED730045EA98 /* SearchNewsPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1836AE8F2986ED730045EA98 /* SearchNewsPresenter.swift */; };
 		18453E0B298696E000C52D47 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18453E0A298696E000C52D47 /* Category.swift */; };
 		185C33472986BAB60000B022 /* TopNewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185C33462986BAB60000B022 /* TopNewsTableViewCell.swift */; };
+		18AE096229A23AD100A662AB /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AE096129A23AD100A662AB /* ImageLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		1836AE8F2986ED730045EA98 /* SearchNewsPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNewsPresenter.swift; sourceTree = "<group>"; };
 		18453E0A298696E000C52D47 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		185C33462986BAB60000B022 /* TopNewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNewsTableViewCell.swift; sourceTree = "<group>"; };
+		18AE096129A23AD100A662AB /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				1836AE872986C5E70045EA98 /* ModuleBuilder.swift */,
 				181D2E2329865A990087B625 /* NetworkManager.swift */,
+				18AE096129A23AD100A662AB /* ImageLoader.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 			files = (
 				181D2E2B2986632E0087B625 /* Articles.swift in Sources */,
 				18453E0B298696E000C52D47 /* Category.swift in Sources */,
+				18AE096229A23AD100A662AB /* ImageLoader.swift in Sources */,
 				181D2E2429865A990087B625 /* NetworkManager.swift in Sources */,
 				181D2E10298659E70087B625 /* AppDelegate.swift in Sources */,
 				185C33472986BAB60000B022 /* TopNewsTableViewCell.swift in Sources */,

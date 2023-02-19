@@ -41,7 +41,7 @@ final class TopNewsViewController: UIViewController {
         textField = UITextField()
         textField.backgroundColor = .tertiarySystemBackground
         textField.layer.cornerRadius = 3
-        textField.placeholder = "Chose category"
+        textField.placeholder = "Choose category"
         textField.textAlignment = .center
         textField.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(textField)

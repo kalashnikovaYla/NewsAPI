@@ -44,10 +44,15 @@ final class TopNewsPresenter: TopNewsPresenterDelegate {
     func getImageData(urlString: String, completion: @escaping(Data?) -> Void) {
         guard let url = URL(string: urlString) else {return}
         
+        ImageLoader.shared.downloadImage(url) { data in
+            completion(data)
+        }
+        /*
         URLSession.shared.dataTask(with: url) { data, _, error in
             guard let data = data, error == nil else {return}
             completion(data)
         }.resume()
+         */ 
     }
     
     func pickerDidSelected(category: Category) {
