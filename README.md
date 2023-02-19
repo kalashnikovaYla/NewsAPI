@@ -4,8 +4,9 @@
 
 
 
-<img width="353" alt="Снимок экрана 2023-02-03 в 00 09 18" src="https://user-images.githubusercontent.com/118187754/216427255-2cee738c-798f-4c35-ac36-cde105ab3374.png">
-<img width="353" alt="Снимок экрана 2023-02-03 в 00 09 31" src="https://user-images.githubusercontent.com/118187754/216427285-74a75017-859a-4ca3-94ea-8f553aceff6b.png">
-<img width="353" alt="Снимок экрана 2023-02-03 в 00 09 50" src="https://user-images.githubusercontent.com/118187754/216427303-606fdb2c-2842-4717-94c0-59fb6a392bb1.png">
-<img width="353" alt="Снимок экрана 2023-02-03 в 00 09 57" src="https://user-images.githubusercontent.com/118187754/216427314-5eda1a25-e744-40b3-a93d-e24e134229f0.png">
-<img width="353" alt="Снимок экрана 2023-02-03 в 00 10 25" src="https://user-images.githubusercontent.com/118187754/216427331-f188becc-37b1-499a-b879-c71654a791f7.png">
+
+<img width="350" alt="Снимок экрана 2023-02-19 в 16 22 51" src="https://user-images.githubusercontent.com/118187754/219945490-7804bc0e-91a7-4d44-a543-291b11cb8411.png">
+<img width="350" alt="Снимок экрана 2023-02-19 в 16 22 20" src="https://user-images.githubusercontent.com/118187754/219945500-92469e3e-d65d-4d1c-a0a4-75d441d6b898.png">
+<img width="350" alt="Снимок экрана 2023-02-19 в 16 21 18" src="https://user-images.githubusercontent.com/118187754/219945515-9a6fd462-d99a-4e6e-b91e-979180d45558.png">
+<img width="350" alt="Снимок экрана 2023-02-19 в 16 21 30" src="https://user-images.githubusercontent.com/118187754/219945519-7ce38728-0855-4706-89e5-86ed3d0b19e5.png">
+<img width="350" alt="Снимок экрана 2023-02-19 в 16 22 04" src="https://user-images.githubusercontent.com/118187754/219945529-2cdb6d6a-b974-48ee-a1b3-15ab22ce1522.png">
